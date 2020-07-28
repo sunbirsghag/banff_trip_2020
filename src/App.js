@@ -7,8 +7,8 @@ import {
 } from "react-router-dom";
 
 import Users from "./user/pages/Users";
+import MainNavigation from "./shared/components/navigation/MainNavigation";
 import NewPlace from "./places/pages/NewPlace";
-import MainNavigation from "./navigation/MainNavigation";
 
 const App = () => {
   return (

@@ -5,10 +5,10 @@ import UsersList from "../components/UsersList";
 const Users = () => {
   const USERS = [
     {
-      id: "q1",
+      id: "u1",
       name: "Sunbir Singh",
       image:
-        "https://www.pexels.com/photo/blonde-hair-blur-daylight-environment-214574/",
+        "https://images.pexels.com/photos/4318999/pexels-photo-4318999.jpeg?cs=srgb&dl=topless-man-sitting-on-white-concrete-bench-4318999.jpg&fm=jpgauto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
       places: 3,
     },
   ];
